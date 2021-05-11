@@ -1,14 +1,17 @@
 .box {
+    text-align: center;
     background-color: pink;
     border: 1px solid black;
     min-height: 200px;
     padding: 10px;
-    text-align: center;
-    line-height: 200px;
+    
+    
 }
 
 .box-nested {
+    
     background-color:salmon;
     border: 1px solid white;
     min-height: 200px;
+    min-width: 100%;
 }
